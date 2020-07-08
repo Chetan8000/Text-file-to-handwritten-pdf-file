@@ -32,5 +32,6 @@ pip install -r requirements.txt
 - Run the following command in the project directory:
 ```
 python txttohandwriting.py
-```
+
+• Please do ⭐ the repository, if it helped you in anyway.
 
