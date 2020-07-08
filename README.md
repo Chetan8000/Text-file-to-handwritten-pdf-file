@@ -8,7 +8,7 @@
 - [X] Convert a text document (.txt file) into a PDF file with the text content handwritten
 
 ## Pre-requisites:
-- [X] python 3.5 or 3.6
+- [X] ![Python 3.5](https://img.shields.io/badge/Python-3.5-brightgreen.svg) or ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 - [X] [Install Tesseract: an open source text recognition (OCR) Engine](https://github.com/tesseract-ocr/tessdoc/blob/master/Home.md)
 - [X] dependencies from requirements.txt
 
